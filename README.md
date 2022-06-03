@@ -1,6 +1,6 @@
 ![Preview of Bellman-Ford Algorithm Visualization](https://github.com/bhubanendra-mishra/path-visualizer/blob/master/preview.png"preview of Bellman Ford Shortest Path")
 # Shortest Path Algorithms Visualizer
-### Live version of this web application: [Shortest Path Algorithms Visualizer.](https://bhubanendra-mishra.github.io/path-visualizer/)
+### Live version of this web application: [Shortest Path Algorithms Visualizer.](https://shounakb1.github.io/path-visualizer/)
 Welcome to Shortest Path Algorithms Visualizer. This is a visualization tool to help you visualize how the algorithms, used for solving Shortest Path Problem, work in real time. [Shortest Path Problem](https://en.wikipedia.org/wiki/Shortest_path_problem) in graph theory, is a [Combinatorial Optimization](https://en.wikipedia.org/wiki/Combinatorial_optimization) problem. The problem requires one, to find a path between a source vertex and a destination vertex, such that travelling through the found path, costs the least. The weight of an edge joining two vertices is attributed as the cost of tarvelling between those two vertices in the graph.
 
 ## Graph in the visualizer
